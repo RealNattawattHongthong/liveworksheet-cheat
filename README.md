@@ -6,4 +6,5 @@ It in command.js
 ## Installation    
 You need to prees F12 and paste command.js in the console    
 
-## Make By Oreo Young Man ( Nattawatt )
+## Make By Oreo Young Man ( Nattawatt )   
+####For Education purpose
