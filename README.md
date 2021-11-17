@@ -1,5 +1,7 @@
 # liveworksheet-cheat
 Tihs is a Liveworksheet cheat   
+You need to red the data from 0   
+
 ```
 //press f12 and click console
 //copy this
