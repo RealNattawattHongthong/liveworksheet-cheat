@@ -1,6 +1,6 @@
 # liveworksheet-cheat
 Tihs is a Liveworksheet cheat   
-You need to red the data from 0   
+You need to read the data from 0   
 
 It in command.js   
 ## Installation    
