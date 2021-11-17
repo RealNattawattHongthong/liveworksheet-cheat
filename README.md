@@ -1,6 +1,8 @@
 # liveworksheet-cheat
 Tihs is a Liveworkshhhet cheat   
-```function rtas(contenidojson) {
+```//press f12 and click console
+//copy this
+function rtas(contenidojson) {
     var c = JSON.parse(contenidojson)
     for (let i = 0; i < c.length; i++) {
         var r = c[i][0]
@@ -16,5 +18,4 @@ Tihs is a Liveworkshhhet cheat
         }
         console.log(`${i} ${r}\n`)
     }
-}
-rtas(contenidojson)```
+}```
