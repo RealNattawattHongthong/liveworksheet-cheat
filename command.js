@@ -1,5 +1,6 @@
 //press f12 and click console
-//copy this
+//copy this   
+//Make By Oreo Young Man (Nattawatt)
 function rtas(contenidojson) {
     var c = JSON.parse(contenidojson)
     for (let i = 0; i < c.length; i++) {
