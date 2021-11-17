@@ -1,5 +1,5 @@
 # liveworksheet-cheat
-Tihs is a Liveworkshhhet cheat   
+Tihs is a Liveworksheet cheat   
 ```
 //press f12 and click console
 //copy this
