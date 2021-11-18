@@ -18,3 +18,5 @@ function rtas(contenidojson) {
         console.log(`${i} ${r}\n`)
     }
 }
+rtas(contenidojson)
+
